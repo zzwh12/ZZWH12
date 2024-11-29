@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-<img   align="center" src="https://github-readme-stats.vercel.app/api?username=zzwh12&count_private=true&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
+<img   align="center" src="https://github-readme-stats.vercel.app/api?username=zzwh12&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=percentile"/>
 <img   align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzwh12&locale=cn&line_height=33&theme=&langs_count=5&layout=compact"/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zzwh12/zzwh12/output/github-contribution-grid-snake-dark.svg">
