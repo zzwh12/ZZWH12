@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+<p align="center"><img src="https://count.getloli.com/get/@zzwh12?theme=rule35" /></p>
 ---
 <p align="center">
 <img   align="center" src="https://github-readme-stats.vercel.app/api?username=zzwh12&count_private=true&locale=cn&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
